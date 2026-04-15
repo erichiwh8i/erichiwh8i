@@ -56,5 +56,5 @@ Aqui estão alguns dos principais projetos que venho desenvolvendo:
 
 ## 📫 Vamos nos conectar?
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN_AQUI)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![Gmail](https://mail.google.com/mail/u/0/#inbox)
 [![99Freelas](https://img.shields.io/badge/99Freelas-00B289?style=for-the-badge)](SEU_LINK_DO_99FREELAS_AQUI)
